@@ -1,0 +1,8 @@
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\bin\Debug\WindowsApplication3.exe
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\bin\Debug\WindowsApplication3.pdb
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\obj\Debug\Led.Form1.resources
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\obj\Debug\ResGen.read.1.tlog
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\obj\Debug\ResGen.write.1.tlog
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\obj\Debug\WindowsApplication3.exe
+C:\Users\Nico\Downloads\ParallelPortInterfacing\ParallelPortInterfacing\obj\Debug\WindowsApplication3.pdb

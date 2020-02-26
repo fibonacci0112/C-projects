@@ -1,0 +1,20 @@
+D:\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.exe
+D:\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.pdb
+D:\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.exe
+D:\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.pdb
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.exe
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.pdb
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.exe
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.csprojResolveAssemblyReference.cache
+D:\Schule\Projekt\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.exe
+D:\Schule\Projekt\Projekt Schiele\ServerSingleThreaded\bin\Debug\ServerSingleThreaded.pdb
+D:\Schule\Projekt\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.csprojResolveAssemblyReference.cache
+D:\Schule\Projekt\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.exe
+D:\Schule\Projekt\Projekt Schiele\ServerSingleThreaded\obj\x86\Debug\ServerSingleThreaded.pdb

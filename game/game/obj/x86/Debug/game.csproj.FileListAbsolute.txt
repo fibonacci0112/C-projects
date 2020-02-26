@@ -1,0 +1,18 @@
+c:\users\nico\documents\visual studio 2010\Projects\game\game\bin\Debug\game.exe
+c:\users\nico\documents\visual studio 2010\Projects\game\game\bin\Debug\game.pdb
+c:\users\nico\documents\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Form1.resources
+c:\users\nico\documents\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Properties.Resources.resources
+c:\users\nico\documents\visual studio 2010\Projects\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+c:\users\nico\documents\visual studio 2010\Projects\game\game\obj\x86\Debug\game.exe
+c:\users\nico\documents\visual studio 2010\Projects\game\game\obj\x86\Debug\game.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\game\game\obj\x86\Debug\game.Form2.resources
+G:\VisualProjects\game\game\obj\x86\Debug\game.exe
+G:\VisualProjects\game\game\obj\x86\Debug\game.pdb
+G:\VisualProjects\game\game\bin\Debug\game.exe
+G:\VisualProjects\game\game\bin\Debug\game.pdb
+G:\VisualProjects\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+G:\VisualProjects\game\game\obj\x86\Debug\game.Form1.resources
+G:\VisualProjects\game\game\obj\x86\Debug\game.Form2.resources
+G:\VisualProjects\game\game\obj\x86\Debug\game.Properties.Resources.resources
+G:\VisualProjects\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache

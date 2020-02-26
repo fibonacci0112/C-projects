@@ -1,0 +1,7 @@
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\Serverjo\bin\Debug\Serverjo.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\Serverjo\bin\Debug\Serverjo.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.Form1.resources
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.Properties.Resources.resources
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\Serverjo\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.pdb

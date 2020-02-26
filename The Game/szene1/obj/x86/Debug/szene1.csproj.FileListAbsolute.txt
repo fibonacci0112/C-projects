@@ -1,0 +1,13 @@
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\bin\Debug\szene1.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\bin\Debug\szene1.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\obj\x86\Debug\szene1.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\obj\x86\Debug\szene1.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\obj\x86\Debug\szene1.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\obj\x86\Debug\szene1.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\bin\Debug\szene1.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication2\szene1\bin\Debug\szene1.pdb
+D:\Nico\Documents\Visual Studio 2010\Projects\The Game\szene1\bin\Debug\szene1.exe
+D:\Nico\Documents\Visual Studio 2010\Projects\The Game\szene1\bin\Debug\szene1.pdb
+D:\Nico\Documents\Visual Studio 2010\Projects\The Game\szene1\obj\x86\Debug\szene1.exe
+D:\Nico\Documents\Visual Studio 2010\Projects\The Game\szene1\obj\x86\Debug\szene1.pdb

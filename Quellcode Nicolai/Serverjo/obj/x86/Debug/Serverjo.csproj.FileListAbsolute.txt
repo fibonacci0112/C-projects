@@ -1,0 +1,19 @@
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.Form1.resources
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.Properties.Resources.resources
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.csproj.GenerateResource.Cache
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\bin\Debug\Serverjo.exe
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\bin\Debug\Serverjo.pdb
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.exe
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.pdb
+C:\Users\Nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.csprojResolveAssemblyReference.cache
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\bin\Debug\Serverjo.exe
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\bin\Debug\Serverjo.pdb
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\obj\x86\Debug\Serverjo.Form1.resources
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\obj\x86\Debug\Serverjo.Properties.Resources.resources
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\obj\x86\Debug\Serverjo.exe
+C:\Users\Ma\Dropbox\Quellcode Nicolai\Serverjo\obj\x86\Debug\Serverjo.pdb
+G:\Quellcode Nicolai\Serverjo\obj\x86\Debug\Serverjo.exe
+G:\Quellcode Nicolai\Serverjo\obj\x86\Debug\Serverjo.pdb

@@ -1,0 +1,9 @@
+C:\Users\Nico\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Nico\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Nico\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+C:\Users\Nico\documents\visual studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb

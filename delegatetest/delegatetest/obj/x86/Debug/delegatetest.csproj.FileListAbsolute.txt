@@ -1,0 +1,4 @@
+c:\users\nico\documents\visual studio 2010\Projects\delegatetest\delegatetest\bin\Debug\delegatetest.exe
+c:\users\nico\documents\visual studio 2010\Projects\delegatetest\delegatetest\bin\Debug\delegatetest.pdb
+c:\users\nico\documents\visual studio 2010\Projects\delegatetest\delegatetest\obj\x86\Debug\delegatetest.exe
+c:\users\nico\documents\visual studio 2010\Projects\delegatetest\delegatetest\obj\x86\Debug\delegatetest.pdb

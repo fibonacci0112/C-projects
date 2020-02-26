@@ -1,0 +1,4 @@
+c:\users\nico\documents\visual studio 2010\Projects\Konsolentest\Konsolentest\bin\Debug\Konsolentest.exe
+c:\users\nico\documents\visual studio 2010\Projects\Konsolentest\Konsolentest\bin\Debug\Konsolentest.pdb
+c:\users\nico\documents\visual studio 2010\Projects\Konsolentest\Konsolentest\obj\x86\Debug\Konsolentest.exe
+c:\users\nico\documents\visual studio 2010\Projects\Konsolentest\Konsolentest\obj\x86\Debug\Konsolentest.pdb

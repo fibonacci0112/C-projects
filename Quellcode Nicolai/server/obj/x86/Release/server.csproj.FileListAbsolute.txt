@@ -1,0 +1,9 @@
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\bin\Release\server.exe
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\bin\Release\server.pdb
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\obj\x86\Release\server.Form1.resources
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\obj\x86\Release\server.Properties.Resources.resources
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\obj\x86\Release\server.exe
+C:\Users\Ma\Dropbox\Quellcode Nicolai\server\obj\x86\Release\server.pdb

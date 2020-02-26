@@ -1,0 +1,14 @@
+﻿Der Buildvorgang wurde am 22.09.2013 18:00:14 gestartet.
+     1>Projekt "d:\Nico\documents\visual studio 2010\Projects\c++ test 1\c++ test 1\c++ test 1.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         Aktualisieren des Timestamps von "Debug\c++ test 1.unsuccessfulbuild".
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\c++ test 1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "c++ test 1.cpp"
+         c++ test 1.cpp
+     1>d:\nico\documents\visual studio 2010\projects\c++ test 1\c++ test 1\c++ test 1.cpp(13): error C2065: 'cout': nichtdeklarierter Bezeichner
+     1>Die Erstellung des Projekts "d:\Nico\documents\visual studio 2010\Projects\c++ test 1\c++ test 1\c++ test 1.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:03.10

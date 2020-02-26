@@ -1,0 +1,10 @@
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication12\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\mini rechner\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\mini rechner\ConsoleApplication12\obj\x86\Debug\ConsoleApplication12.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\mini rechner\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\mini rechner\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\mini rechner\ConsoleApplication12\obj\x86\Debug\ResolveAssemblyReference.cache

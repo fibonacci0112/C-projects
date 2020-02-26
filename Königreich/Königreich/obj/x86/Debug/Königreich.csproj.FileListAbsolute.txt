@@ -1,0 +1,9 @@
+c:\dokumente und einstellungen\anwender\eigene dateien\visual studio 2010\Projects\Königreich\Königreich\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\dokumente und einstellungen\anwender\eigene dateien\visual studio 2010\Projects\Königreich\Königreich\bin\Debug\Königreich.exe
+c:\dokumente und einstellungen\anwender\eigene dateien\visual studio 2010\Projects\Königreich\Königreich\bin\Debug\Königreich.pdb
+c:\dokumente und einstellungen\anwender\eigene dateien\visual studio 2010\Projects\Königreich\Königreich\obj\x86\Debug\Königreich.exe
+c:\dokumente und einstellungen\anwender\eigene dateien\visual studio 2010\Projects\Königreich\Königreich\obj\x86\Debug\Königreich.pdb
+G:\VisualProjects\Königreich\Königreich\obj\x86\Debug\Königreich.exe
+G:\VisualProjects\Königreich\Königreich\obj\x86\Debug\Königreich.pdb
+G:\VisualProjects\Königreich\Königreich\bin\Debug\Königreich.exe
+G:\VisualProjects\Königreich\Königreich\bin\Debug\Königreich.pdb

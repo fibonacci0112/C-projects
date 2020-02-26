@@ -1,0 +1,8 @@
+c:\users\nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\obj\x86\Debug\IpAbfragen.Form1.resources
+c:\users\nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\obj\x86\Debug\IpAbfragen.Properties.Resources.resources
+c:\users\nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\obj\x86\Debug\IpAbfragen.csproj.GenerateResource.Cache
+c:\users\nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\bin\Debug\IpAbfragen.exe
+c:\users\nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\bin\Debug\IpAbfragen.pdb
+c:\users\nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\obj\x86\Debug\IpAbfragen.exe
+c:\users\nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\obj\x86\Debug\IpAbfragen.pdb
+C:\Users\Nico\documents\visual studio 2010\Projects\IpAbfragen\IpAbfragen\obj\x86\Debug\IpAbfragen.csprojResolveAssemblyReference.cache

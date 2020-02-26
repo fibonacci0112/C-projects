@@ -1,0 +1,4 @@
+d:\nico\documents\visual studio 2010\Projects\DiebBerechner\DiebBerechner\bin\Debug\DiebBerechner.exe
+d:\nico\documents\visual studio 2010\Projects\DiebBerechner\DiebBerechner\bin\Debug\DiebBerechner.pdb
+d:\nico\documents\visual studio 2010\Projects\DiebBerechner\DiebBerechner\obj\x86\Debug\DiebBerechner.exe
+d:\nico\documents\visual studio 2010\Projects\DiebBerechner\DiebBerechner\obj\x86\Debug\DiebBerechner.pdb

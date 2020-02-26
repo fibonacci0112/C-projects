@@ -1,0 +1,4 @@
+c:\users\nico\documents\visual studio 2010\Projects\asp2011\asp2011\bin\Debug\asp2011.exe
+c:\users\nico\documents\visual studio 2010\Projects\asp2011\asp2011\bin\Debug\asp2011.pdb
+c:\users\nico\documents\visual studio 2010\Projects\asp2011\asp2011\obj\x86\Debug\asp2011.exe
+c:\users\nico\documents\visual studio 2010\Projects\asp2011\asp2011\obj\x86\Debug\asp2011.pdb

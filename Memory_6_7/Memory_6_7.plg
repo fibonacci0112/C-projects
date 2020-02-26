@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Dokumente und Einstellungen\Anwender\Desktop\Memory_6_7\Memory_6_7.uvproj
+Project File Date:  11/27/2012
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Memory_6_7.a51...
+linking...
+Program Size: data=8.0 xdata=0 code=24
+creating hex file from "Memory_6_7"...
+"Memory_6_7" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Memory_6_7.a51...
+linking...
+Program Size: data=8.0 xdata=0 code=9
+creating hex file from "Memory_6_7"...
+"Memory_6_7" - 0 Error(s), 0 Warning(s).

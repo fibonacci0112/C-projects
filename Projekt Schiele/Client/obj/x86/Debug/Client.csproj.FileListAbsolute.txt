@@ -1,0 +1,53 @@
+C:\Users\Nico\documents\visual studio 2010\Projects\Projekt Schiele\Client\bin\Debug\Client.exe
+C:\Users\Nico\documents\visual studio 2010\Projects\Projekt Schiele\Client\bin\Debug\Client.pdb
+C:\Users\Nico\documents\visual studio 2010\Projects\Projekt Schiele\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\Nico\documents\visual studio 2010\Projects\Projekt Schiele\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Nico\documents\visual studio 2010\Projects\Projekt Schiele\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Nico\documents\visual studio 2010\Projects\Projekt Schiele\Client\obj\x86\Debug\Client.exe
+C:\Users\Nico\documents\visual studio 2010\Projects\Projekt Schiele\Client\obj\x86\Debug\Client.pdb
+G:\Projekt Schiele\Client\obj\x86\Debug\Client.exe
+G:\Projekt Schiele\Client\obj\x86\Debug\Client.pdb
+G:\Projekt Schiele\Client\bin\Debug\Client.exe
+G:\Projekt Schiele\Client\bin\Debug\Client.pdb
+G:\Projekt Schiele\Client\obj\x86\Debug\Client.Auswahlfenster.resources
+G:\Projekt Schiele\Client\obj\x86\Debug\Client.Form1.resources
+G:\Projekt Schiele\Client\obj\x86\Debug\Client.Properties.Resources.resources
+H:\Projekt Schiele\Client\obj\x86\Debug\Client.exe
+H:\Projekt Schiele\Client\obj\x86\Debug\Client.pdb
+H:\Projekt Schiele\Client\bin\Debug\Client.exe
+H:\Projekt Schiele\Client\bin\Debug\Client.pdb
+H:\Projekt Schiele\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projekt Schiele\Client\obj\x86\Debug\Client.Auswahlfenster.resources
+H:\Projekt Schiele\Client\obj\x86\Debug\Client.Form1.resources
+H:\Projekt Schiele\Client\obj\x86\Debug\Client.Properties.Resources.resources
+H:\Projekt Schiele\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Projekt Schiele\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Projekt Schiele\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Projekt Schiele\Client\bin\Debug\Client.exe
+D:\Projekt Schiele\Client\bin\Debug\Client.pdb
+D:\Projekt Schiele\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projekt Schiele\Client\obj\x86\Debug\Client.Auswahlfenster.resources
+D:\Projekt Schiele\Client\obj\x86\Debug\Client.Form1.resources
+D:\Projekt Schiele\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Projekt Schiele\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projekt Schiele\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projekt Schiele\Client\obj\x86\Debug\Client.exe
+D:\Projekt Schiele\Client\obj\x86\Debug\Client.pdb
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\obj\x86\Debug\Client.exe
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\obj\x86\Debug\Client.pdb
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\obj\x86\Debug\Client.Form1.resources
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\bin\Debug\Client.exe
+C:\Dokumente und Einstellungen\Anwender\Desktop\Projekt Schiele\Client\bin\Debug\Client.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\Projekt Schiele\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+G:\VisualProjects\Projekt Schiele\Client\obj\x86\Debug\Client.exe
+G:\VisualProjects\Projekt Schiele\Client\obj\x86\Debug\Client.pdb
+G:\VisualProjects\Projekt Schiele\Client\bin\Debug\Client.exe
+G:\VisualProjects\Projekt Schiele\Client\bin\Debug\Client.pdb
+G:\VisualProjects\Projekt Schiele\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+G:\VisualProjects\Projekt Schiele\Client\obj\x86\Debug\Client.Form1.resources
+G:\VisualProjects\Projekt Schiele\Client\obj\x86\Debug\Client.Properties.Resources.resources
+G:\VisualProjects\Projekt Schiele\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache

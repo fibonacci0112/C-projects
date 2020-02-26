@@ -1,0 +1,8 @@
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.Form1.resources
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.Properties.Resources.resources
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.csproj.GenerateResource.Cache
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\bin\Debug\Serverjo.exe
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\bin\Debug\Serverjo.pdb
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.exe
+c:\users\nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.pdb
+C:\Users\Nico\documents\visual studio 2010\Projects\server\Serverjo\obj\x86\Debug\Serverjo.csprojResolveAssemblyReference.cache

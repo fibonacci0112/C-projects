@@ -1,0 +1,8 @@
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\obj\x86\Debug\server.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\obj\x86\Debug\server.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\bin\Debug\server.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\bin\Debug\server.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\obj\x86\Debug\server.Form1.resources
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\obj\x86\Debug\server.Properties.Resources.resources
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\server\server\obj\x86\Debug\Client.csproj.GenerateResource.Cache

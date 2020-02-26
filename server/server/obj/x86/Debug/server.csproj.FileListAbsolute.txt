@@ -1,0 +1,7 @@
+c:\users\nico\documents\visual studio 2010\Projects\server\server\bin\Debug\server.exe
+c:\users\nico\documents\visual studio 2010\Projects\server\server\bin\Debug\server.pdb
+c:\users\nico\documents\visual studio 2010\Projects\server\server\obj\x86\Debug\server.Properties.Resources.resources
+c:\users\nico\documents\visual studio 2010\Projects\server\server\obj\x86\Debug\server.csproj.GenerateResource.Cache
+c:\users\nico\documents\visual studio 2010\Projects\server\server\obj\x86\Debug\server.exe
+c:\users\nico\documents\visual studio 2010\Projects\server\server\obj\x86\Debug\server.pdb
+c:\users\nico\documents\visual studio 2010\Projects\server\server\obj\x86\Debug\server.Form1.resources

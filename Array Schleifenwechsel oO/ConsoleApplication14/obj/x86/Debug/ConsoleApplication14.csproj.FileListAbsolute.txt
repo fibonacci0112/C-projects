@@ -1,0 +1,9 @@
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.exe
+c:\users\nico\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
